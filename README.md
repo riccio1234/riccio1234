@@ -1,3 +1,3 @@
 🦔 - Hi, I'm IL_RICCIO
 
-🟨 - I'm a Javascript Developer.
+🟨 - I'm a Js Dev.
