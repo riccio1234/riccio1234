@@ -5,6 +5,6 @@
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=FF7900) ![Spigot](https://img.shields.io/badge/Spigot-black?style=flat&logo=spigotmc&logoColor=ED8106) 
 ![MySql](https://img.shields.io/badge/MySql-black?style=flat&logo=mysql&logoColor=4479A1) ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
 ## My Projects
-![https://cdn.discordapp.com/attachments/1135172213507629087/1282269643528212513/image.png?ex=66debe2a&is=66dd6caa&hm=69234dda6090ecdc69a559090bfa125dc5f3a311a303bcb4915fda693685e9ed&](https://dsc.gg/wildds)
+![(https://dsc.gg/wildds]https://cdn.discordapp.com/attachments/1135172213507629087/1282269643528212513/image.png?ex=66debe2a&is=66dd6caa&hm=69234dda6090ecdc69a559090bfa125dc5f3a311a303bcb4915fda693685e9ed&)
 ## Most Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riccio1234&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
