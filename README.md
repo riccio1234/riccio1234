@@ -5,6 +5,7 @@
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=FF7900) ![Spigot](https://img.shields.io/badge/Spigot-black?style=flat&logo=spigotmc&logoColor=ED8106) 
 ![MySql](https://img.shields.io/badge/MySql-black?style=flat&logo=mysql&logoColor=4479A1) ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
 ## My Projects
-![](https://cdn.discordapp.com/attachments/1135172213507629087/1282270121817145416/Nuovo_progetto_28.png?ex=66debe9c&is=66dd6d1c&hm=0968b3f7136bbfdfd31db74a3dca4dc5987b9badfd345e43ae08aec6a85e60db&)
+![WildMC](https://cdn.discordapp.com/attachments/1135172213507629087/1282270121817145416/Nuovo_progetto_28.png?ex=66debe9c&is=66dd6d1c&hm=0968b3f7136bbfdfd31db74a3dca4dc5987b9badfd345e43ae08aec6a85e60db&)
+![PizzaBot](https://cdn.discordapp.com/attachments/1135172213507629087/1282270930743328889/Nuovo_progetto_29.png?ex=66debf5d&is=66dd6ddd&hm=260d793b933f08cead380b3515f336b9ed9b511c425d21aabd352bac48e96a1f&)
 ## Most Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riccio1234&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
