@@ -9,7 +9,7 @@
 ![Riccio Music](https://cdn.discordapp.com/attachments/1135172213507629087/1282272187981758515/Nuovo_progetto_30.png?ex=66dec089&is=66dd6f09&hm=605b6ce997d08cc8dd30f8907812edaa72ac9403310d9d172f70537298bae98f&)
 ![PizzaBot](https://cdn.discordapp.com/attachments/1135172213507629087/1282270930743328889/Nuovo_progetto_29.png?ex=66debf5d&is=66dd6ddd&hm=260d793b933f08cead380b3515f336b9ed9b511c425d21aabd352bac48e96a1f&)
 
-**https://dsc.gg/wildds**
+> 🔗 **https://dsc.gg/wildds**
 
 ## Most Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riccio1234&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
