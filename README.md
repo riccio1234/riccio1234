@@ -10,10 +10,5 @@
 ![RiccioMusic](https://cdn.discordapp.com/attachments/1135172213507629087/1282272187981758515/Nuovo_progetto_30.png?ex=66dec089&is=66dd6f09&hm=605b6ce997d08cc8dd30f8907812edaa72ac9403310d9d172f70537298bae98f&)
 ![HyperStudios](https://cdn.discordapp.com/attachments/1135172213507629087/1282275918890401792/Nuovo_progetto_31.png?ex=66dec402&is=66dd7282&hm=2d7cb05dbb072c243550ec751c6329948a240e30c2a570c01fb739ce668bed5c&)
 
-> 🔗 **WildMC: https://dsc.gg/wildds**
-> 🔗 **PizzaBot: https://https://discord.gg/ajSfUjtMvZ**
-> 🔗 **RiccioMusic: https://https://discord.com/oauth2/authorize?client_id=1258855961125458031&permissions=3147776&integration_type=0&scope=bot**
-> 🔗 **HyperStudios: https://https://discord.gg/UR64FcFRkh**
-
 ## Most Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riccio1234&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
