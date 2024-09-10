@@ -1,6 +1,6 @@
 ## 🎓 Tech Stack
 [![](https://skillicons.dev/icons?i=js,discordjs,express,mongodb)]()
-[![](https://skillicons.dev/icons?i=html,css)]()
+[[](https://skillicons.dev/icons?i=html,css)]()
 ## 🤔 Learning
 [![](https://skillicons.dev/icons?i=java,mysql)]()
 ## 📦 My Projects
