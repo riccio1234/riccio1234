@@ -5,7 +5,7 @@
 ![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-Hi, I'm IL_RICCIO 👋  
+Hi, I'm **IL_RICCIO** 👋  
 Full-stack Developer | Low-level lover  
 Founder of [@DotStudios](https://github.com/DotStudiosOfficial).  
 
